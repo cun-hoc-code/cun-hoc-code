@@ -1,4 +1,5 @@
 ## Hi there 👋
+Toi ten la cun , hom nay la ngay dau tien toi hoc code
 
 <!--
 **cun-hoc-code/cun-hoc-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
