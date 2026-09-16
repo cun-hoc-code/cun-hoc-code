@@ -12,7 +12,7 @@ Currently, I'm focusing on **C++, Object-Oriented Programming, Git, Linux, and p
 
 ## 🧑‍💻 About Me
 
-* 🎓 First-year university student
+* 🎓 Second-year university student
 * 💻 Currently learning **C++ and OOP**
 * 🐧 Daily Linux user — currently using **Arch Linux**
 * 🌱 Learning **Data Structures & Algorithms**
@@ -88,7 +88,7 @@ Software Development
 ## 🎯 Goals
 
 ```text
-2026  → Build strong programming fundamentals
+2026 → Strengthen C++/OOP, DSA and build real-world projects
 2027  → Build larger real-world projects
       → Contribute to open source
       → Learn backend & systems development
