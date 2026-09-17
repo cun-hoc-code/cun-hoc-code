@@ -1,4 +1,4 @@
-# Hi, I'm Tuấn Anh 👋
+# Hi, i Cún Z
 
 ### First-year student • C++ learner • Linux enthusiast
 
