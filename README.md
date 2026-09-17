@@ -1,4 +1,4 @@
-# Hi, i Cún Z
+# Hi, im Cún Z
 
 ### First-year student • C++ learner • Linux enthusiast
 
